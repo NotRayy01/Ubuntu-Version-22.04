@@ -9,13 +9,13 @@
 - 🔑 Password: root
 
 ## Installation: 
-``` # Clone the Repository:
+```# Clone the Repository:
 git clone https://github.com/NotRayy01/Ubuntu-Version-22.04
 
 cd ubuntu22.04
 
 # Build the Docker Image:
-docker build -t ubuntu-vm .
+docker build -t ubuntu-vm
 
 # Run the Container:
 
